@@ -1,0 +1,7 @@
+name = "Finsys"
+uuid = "08621d63-389f-4587-a7eb-024c6072aab8"
+authors = ["foghorner <101215409+foghorner@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
