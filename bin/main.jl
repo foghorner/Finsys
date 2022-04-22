@@ -1,1 +1,1 @@
-include("../finsys.jl")
+include("../src/finsys.jl")

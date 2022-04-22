@@ -1,5 +1,1 @@
-module Finsys
-
-greet() = print("Hello World!")
-
-end # module
+println("Hello World!")
